@@ -11,7 +11,7 @@ A collection of 20 Python mini projects completed as part of a summer internship
 - [Section 3 - Functions and File Handling](#section-3---functions-and-file-handling)
 - [Section 4 - OOP and Advanced Python](#section-4---oop-and-advanced-python)
 - [Section 5 - Python for Data and Automation](#section-5---python-for-data-and-automation)
-- [How to Run](#how-to-run)
+
 - [Requirements](#requirements)
 
 ---
@@ -80,34 +80,6 @@ A collection of 20 Python mini projects completed as part of a summer internship
 
 ---
 
-## How to Run
-
-1. Clone the repository
-
-```
-git clone https://github.com/charanjit/python-mini-projects.git
-```
-
-2. Navigate into the project folder
-
-```
-cd python-mini-projects
-```
-
-3. Install required libraries for Section 5 projects
-
-```
-pip install requests beautifulsoup4 pandas numpy
-```
-
-4. Navigate into any section folder and run the desired project
-
-```
-cd section1_basics
-python number_guessing_game.py
-```
-
----
 
 ## Requirements
 
