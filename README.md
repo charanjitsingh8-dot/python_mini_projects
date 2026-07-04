@@ -85,7 +85,7 @@ A collection of 20 Python mini projects completed as part of a summer internship
 1. Clone the repository
 
 ```
-git clone https://github.com/Ajeet22222/python-mini-projects.git
+git clone https://github.com/charanjit/python-mini-projects.git
 ```
 
 2. Navigate into the project folder
@@ -160,6 +160,6 @@ python_mini_projects/
 
 ---
 
-## Author
-Ajeet
+##Author
+Charanjit
 Developed as part of internship Python programming module.
